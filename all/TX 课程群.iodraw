@@ -55,7 +55,7 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-9" value="教学&lt;div style=&quot;font-size: 16px;&quot;&gt;目标&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;strokeColor=none;fillColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="250" y="437" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="671" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-11" value="知识增长&lt;div&gt;经验丰富&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#FFFFFF;" vertex="1" parent="1">
