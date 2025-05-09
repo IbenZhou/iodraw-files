@@ -19,7 +19,7 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-5" target="A5Sfnx3JR0G6xxXe-f1z-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-5" target="A5Sfnx3JR0G6xxXe-f1z-6">
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;endArrow=none;endFill=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-5" target="A5Sfnx3JR0G6xxXe-f1z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-5" value="统筹、整合、拓展、创新" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=#E06310;fontSize=20;strokeWidth=3;" vertex="1" parent="1">
