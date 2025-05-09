@@ -8,10 +8,10 @@
           <mxGeometry x="233.5" y="303" width="381" height="348" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-1" value="学生起点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-6" y="433" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-3" value="知识基础&lt;div&gt;学习经验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="329" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-4" value="能力水平&lt;div&gt;情感态度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-6" y="537" width="120" height="60" as="geometry" />
