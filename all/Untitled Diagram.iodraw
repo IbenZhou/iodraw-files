@@ -26,7 +26,7 @@
           <mxGeometry x="296" y="821" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-8" value="国家课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="312" y="1076" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="971" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="必修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="307" y="1217" width="120" height="60" as="geometry" />
