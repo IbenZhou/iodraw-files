@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-9" value="教学&lt;div&gt;目标&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="252" y="437" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="437" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="682" y="440" width="120" height="60" as="geometry" />
