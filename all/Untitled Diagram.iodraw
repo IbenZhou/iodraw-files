@@ -70,7 +70,7 @@
           <mxGeometry x="261" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="必修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;strokeColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1031" width="120" height="60" as="geometry" />
+          <mxGeometry x="343" y="1017" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-10" target="A5Sfnx3JR0G6xxXe-f1z-9">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="799.25" y="910" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-14" value="选修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;strokeColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="716" y="1031" width="120" height="60" as="geometry" />
+          <mxGeometry x="699" y="1017" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.473;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;curved=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-1" target="A5Sfnx3JR0G6xxXe-f1z-2">
           <mxGeometry relative="1" as="geometry" />
