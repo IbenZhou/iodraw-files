@@ -48,6 +48,12 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-6" target="A5Sfnx3JR0G6xxXe-f1z-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-6" target="A5Sfnx3JR0G6xxXe-f1z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-6" target="A5Sfnx3JR0G6xxXe-f1z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-6" value="X 课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="649" y="803" width="120" height="60" as="geometry" />
         </mxCell>
