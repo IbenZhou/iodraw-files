@@ -11,7 +11,10 @@
           <mxGeometry x="-6" y="329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-4" value="能力水平&lt;div&gt;情感态度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="528" width="120" height="60" as="geometry" />
+          <mxGeometry x="-6" y="537" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D41m-ZQvipoJe58oNJzS-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="437" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
