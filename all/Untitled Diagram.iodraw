@@ -28,7 +28,7 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-8" value="国家课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="296" y="956" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="T 课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="必修课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="832" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
