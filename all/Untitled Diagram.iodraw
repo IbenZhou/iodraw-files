@@ -16,9 +16,6 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#009900;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="751" y="572" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;endArrow=none;endFill=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-5" target="A5Sfnx3JR0G6xxXe-f1z-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-5" value="统筹、整合、拓展、创新" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=#E06310;fontSize=20;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="451" y="679" width="265" height="60" as="geometry" />
         </mxCell>
@@ -84,6 +81,9 @@
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="569" y="427" width="29" height="454" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="579" y="334" width="29" height="454" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
