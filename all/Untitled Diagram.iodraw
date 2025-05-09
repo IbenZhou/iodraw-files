@@ -11,7 +11,7 @@
           <mxGeometry x="296" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-3" value="地方课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="596" y="561" width="120" height="60" as="geometry" />
+          <mxGeometry x="523.5" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="894" y="561" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="296" y="971" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="必修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="296" y="1127" width="120" height="60" as="geometry" />
+          <mxGeometry x="387" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-10" value="英文报刊阅读课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="491" y="971" width="90" height="60" as="geometry" />
