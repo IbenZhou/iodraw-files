@@ -67,6 +67,12 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-9" value="教学&lt;div style=&quot;font-size: 16px;&quot;&gt;目标&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;strokeColor=none;fillColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="250" y="437" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="D41m-ZQvipoJe58oNJzS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D41m-ZQvipoJe58oNJzS-10" target="D41m-ZQvipoJe58oNJzS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D41m-ZQvipoJe58oNJzS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D41m-ZQvipoJe58oNJzS-10" target="D41m-ZQvipoJe58oNJzS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;fontColor=#000000;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="671" y="447" width="120" height="60" as="geometry" />
         </mxCell>
