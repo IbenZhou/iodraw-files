@@ -11,6 +11,9 @@
           <mxGeometry x="280" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-3" value="地方课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
