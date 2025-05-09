@@ -26,22 +26,22 @@
           <mxGeometry x="387" y="803" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-8" value="国家课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="296" y="971" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="943" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-9" value="必修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="387" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-10" value="英文报刊&lt;div&gt;阅读课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="971" width="90" height="60" as="geometry" />
+          <mxGeometry x="523.5" y="943" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-11" value="TED类&lt;div&gt;视听课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="638" y="971" width="90" height="60" as="geometry" />
+          <mxGeometry x="638" y="943" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-12" value="小说阅&lt;div&gt;读课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="751" y="971" width="90" height="60" as="geometry" />
+          <mxGeometry x="751" y="943" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-13" value="国际理&lt;div&gt;解课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="864" y="971" width="90" height="60" as="geometry" />
+          <mxGeometry x="864" y="943" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-14" value="选修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="867" y="1211" width="120" height="60" as="geometry" />
