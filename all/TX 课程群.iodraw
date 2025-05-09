@@ -65,7 +65,7 @@
           <mxGeometry x="671" y="339" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-13" value="学生&lt;div&gt;发展&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="839" y="447" width="120" height="60" as="geometry" />
+          <mxGeometry x="839" y="447" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-14" value="语言&lt;div&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="984" y="303" width="80" height="60" as="geometry" />
