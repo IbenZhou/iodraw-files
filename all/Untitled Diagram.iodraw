@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-1" value="T + X 课程群" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="561.5" y="448" width="189" height="60" as="geometry" />
+          <mxGeometry x="489" y="444" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-2" value="国家课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="296" y="561" width="120" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="523.5" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="894" y="561" width="120" height="60" as="geometry" />
+          <mxGeometry x="751" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-5" value="统筹、整合、拓展、创新" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="678" width="265" height="60" as="geometry" />
