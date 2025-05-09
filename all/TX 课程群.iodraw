@@ -56,7 +56,7 @@
           <mxGeometry x="250" y="437" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="682" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="671" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-11" value="知识增长&lt;div&gt;经验丰富&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="682" y="545" width="120" height="60" as="geometry" />
