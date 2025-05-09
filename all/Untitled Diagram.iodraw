@@ -7,22 +7,11 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-1" value="T + X 课程群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed7707;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="489" y="458" width="189" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-2" target="A5Sfnx3JR0G6xxXe-f1z-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-2" value="国家课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#009900;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="296" y="561" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="583.5238095238094" y="679.0952380952381" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-3" value="地方课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#009900;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="561" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-4" target="A5Sfnx3JR0G6xxXe-f1z-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#009900;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="751" y="561" width="120" height="60" as="geometry" />
@@ -96,7 +85,7 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="569" y="313" width="29" height="454" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="944" y="476" width="29" height="454" as="geometry" />
         </mxCell>
       </root>
