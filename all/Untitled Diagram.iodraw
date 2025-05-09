@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=#808080;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-1" target="A5Sfnx3JR0G6xxXe-f1z-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;curved=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-1" target="A5Sfnx3JR0G6xxXe-f1z-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-1" value="T + X 课程群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ed7707;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="489" y="458" width="189" height="60" as="geometry" />
         </mxCell>
@@ -98,9 +92,6 @@
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-14" value="选修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;strokeColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="689.87" y="1011" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.473;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;curved=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-1" target="A5Sfnx3JR0G6xxXe-f1z-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeColor=#808080;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="927" y="652" width="20" height="150" as="geometry" />
