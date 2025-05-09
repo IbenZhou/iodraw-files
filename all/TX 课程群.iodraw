@@ -10,10 +10,10 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-1" value="学生起点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E06310;fontColor=#1A1A1A;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="57" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-3" value="知识基础&lt;div&gt;学习经验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-3" value="知识基础&lt;div style=&quot;font-size: 14px;&quot;&gt;学习经验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="57" y="339" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-4" value="能力水平&lt;div&gt;情感态度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-4" value="能力水平&lt;div style=&quot;font-size: 14px;&quot;&gt;情感态度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="57" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="D41m-ZQvipoJe58oNJzS-5" target="D41m-ZQvipoJe58oNJzS-7">
@@ -58,25 +58,25 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-10" value="学习结束" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;fontColor=#000000;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="671" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-11" value="知识增长&lt;div&gt;经验丰富&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-11" value="知识增长&lt;div style=&quot;font-size: 14px;&quot;&gt;经验丰富&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="671" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-12" value="能力提升&lt;div&gt;态度转变&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-12" value="能力提升&lt;div style=&quot;font-size: 14px;&quot;&gt;态度转变&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="671" y="339" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-13" value="学生&lt;div&gt;发展&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3399FF;fontColor=#000000;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="839" y="447" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-14" value="语言&lt;div&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-14" value="语言&lt;div style=&quot;font-size: 14px;&quot;&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="984" y="303" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="文化&lt;div&gt;意识&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="文化&lt;div style=&quot;font-size: 14px;&quot;&gt;意识&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="984" y="399" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-16" value="思维&lt;div&gt;品质&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-16" value="思维&lt;div style=&quot;font-size: 14px;&quot;&gt;品质&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="984" y="495" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-17" value="学习&lt;div&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-17" value="学习&lt;div style=&quot;font-size: 14px;&quot;&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#00994D;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="984" y="591" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
