@@ -70,13 +70,13 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-14" value="语言&lt;div&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="984" y="257" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="文化意识" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="文化&lt;div&gt;意识&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="984" y="377" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-16" value="思维品质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-16" value="思维&lt;div&gt;品质&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="984" y="491" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-17" value="学习能力" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-17" value="学习&lt;div&gt;能力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="982" y="597" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
