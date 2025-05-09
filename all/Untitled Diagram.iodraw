@@ -34,13 +34,13 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-10" value="英文报刊阅读课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="971" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-11" value="TED类视听课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-11" value="TED类&lt;div&gt;视听课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="638" y="971" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-12" value="小说阅&lt;div&gt;读课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="751" y="971" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-13" value="国际理解课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-13" value="国际理&lt;div&gt;解课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="864" y="971" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-14" value="选修课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=17;" vertex="1" parent="1">
