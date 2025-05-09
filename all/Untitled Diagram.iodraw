@@ -27,6 +27,9 @@
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-3" value="地方课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="561" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A5Sfnx3JR0G6xxXe-f1z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A5Sfnx3JR0G6xxXe-f1z-4" target="A5Sfnx3JR0G6xxXe-f1z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A5Sfnx3JR0G6xxXe-f1z-4" value="校本课程" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#808080;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="751" y="561" width="120" height="60" as="geometry" />
         </mxCell>
