@@ -43,8 +43,11 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-14" value="语言能力" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="978" y="545" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="语言能力" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-15" value="文化意识" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="978" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D41m-ZQvipoJe58oNJzS-16" value="文化意识" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="988" y="447" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
