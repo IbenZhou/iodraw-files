@@ -7,7 +7,7 @@
         <mxCell id="D41m-ZQvipoJe58oNJzS-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="233.5" y="303" width="381" height="348" as="geometry" />
         </mxCell>
-        <mxCell id="D41m-ZQvipoJe58oNJzS-1" value="学生起点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4D4D4D;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="D41m-ZQvipoJe58oNJzS-1" value="学生起点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E06310;fontColor=#FFFFFF;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="57" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D41m-ZQvipoJe58oNJzS-3" value="知识基础&lt;div&gt;学习经验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;fontColor=#FFFFFF;" vertex="1" parent="1">
