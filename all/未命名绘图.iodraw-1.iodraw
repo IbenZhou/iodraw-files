@@ -8,10 +8,10 @@
           <mxGeometry x="153" y="81" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MFqY531879CR-iXPJOj9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="182" width="150" height="50" as="geometry" />
+          <mxGeometry x="138" y="165" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MFqY531879CR-iXPJOj9-3" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 17px;&quot;&gt;INPUT A, B&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="292" width="160" height="50" as="geometry" />
+          <mxGeometry x="133" y="271" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MFqY531879CR-iXPJOj9-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="469" width="180" height="70" as="geometry" />
