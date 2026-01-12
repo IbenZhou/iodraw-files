@@ -7,10 +7,10 @@
         <mxCell id="MFqY531879CR-iXPJOj9-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="71" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MFqY531879CR-iXPJOj9-2" value="INPUT A, B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MFqY531879CR-iXPJOj9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="324" y="182" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MFqY531879CR-iXPJOj9-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MFqY531879CR-iXPJOj9-3" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 17px;&quot;&gt;INPUT A, B&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="292" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MFqY531879CR-iXPJOj9-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
